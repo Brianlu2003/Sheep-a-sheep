@@ -62,4 +62,7 @@ classDiagram
         +showToast()
     }
 
+![SheepGame open](https://github.com/user-attachments/assets/ac97a115-3cb0-45e0-83c1-11c209a90202)
+
+
 
