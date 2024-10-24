@@ -61,6 +61,5 @@ classDiagram
         +updateUI()
         +showToast()
     }
-![image](https://github.com/user-attachments/assets/a5215acc-39f4-49f1-8344-c01e8aaef2c7)
-![image](https://github.com/user-attachments/assets/c4be6569-d7ad-491d-8a89-8be168c2a1cd)
+
 
