@@ -26,6 +26,9 @@ classDiagram
 
 ![image](https://github.com/user-attachments/assets/fc78f22d-bbf7-43ba-ae3c-46c989574b9b)
 
+![SheepGame open](https://github.com/user-attachments/assets/815d47de-5643-4354-82f9-5d8553df154f)
+
+
 更新类图
 ```mermaid
 classDiagram
@@ -62,7 +65,7 @@ classDiagram
         +showToast()
     }
 
-![SheepGame open](https://github.com/user-attachments/assets/ac97a115-3cb0-45e0-83c1-11c209a90202)
+
 
 
 
